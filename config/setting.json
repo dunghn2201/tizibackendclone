@@ -1,0 +1,10 @@
+{
+    "host":"http://localhost:8000",
+    "port": 8000,
+    "mysql":{
+        "host":"localhost",
+        "user":"root",
+        "password":"0000",
+        "database":"tizi"
+    }
+}
